@@ -63,7 +63,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
 - [ ] Group Anagrams
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
