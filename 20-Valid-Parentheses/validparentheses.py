@@ -1,11 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        pairs = {
+            '(':')',
+            '{':'}',
+            '[':']'
+        }
         stack = []
         for letter in s:
-            # closing braces are always 1 or 2 ascii values larger than the opening brace
-            if len(stack) > 0 and (ord(stack[-1]) == ord(letter) - 1 or ord(stack[-1]) == ord(letter) - 2):
+            if stack and letter == pairs[stack[-1]]:
                 stack.pop()
             else:
+                if letter not in pairs:
+                    return False
                 stack.append(letter)
         return not stack
     
