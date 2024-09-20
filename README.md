@@ -46,7 +46,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Meeting Rooms (Leetcode Premium)
 - [ ] Meeting Rooms II (Leetcode Premium)
 ### Linked List
-- [ ] Reverse a Linked List
+- [x] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Merge K Sorted Lists
