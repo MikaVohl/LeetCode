@@ -1,5 +1,6 @@
 # Leetcode Questions
-This repository contains my most recent solutions to leetcode problems. I am currently working at completing the Blind 75 problems but will still be doing any problems that interest me.
+This repository contains my most recent solutions to leetcode problems. I am currently working at completing the Blind 75 problems but will still be doing any problems that interest me.<br>
+https://leetcode.com/studyplan/leetcode-75/
 ## Blind 75
 ### Array
 - [x] Two Sum
