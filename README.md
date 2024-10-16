@@ -6,7 +6,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ## Blind 75
 ### Array
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
