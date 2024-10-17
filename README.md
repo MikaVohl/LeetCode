@@ -18,7 +18,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ### Binary
 - [x] Sum of Two Integers
 - [x] Number of 1 Bits
-- [ ] Counting Bits
+- [x] Counting Bits
 - [ ] Missing Number
 - [ ] Reverse Bits
 ### Dynamic Programming
