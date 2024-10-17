@@ -16,7 +16,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] 3 Sum
 - [ ] Container With Most Water
 ### Binary
-- [ ] Sum of Two Integers
+- [x] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Missing Number
