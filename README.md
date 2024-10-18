@@ -4,6 +4,8 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
+**Progress:** 9 / 75
+
 ### Array
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
