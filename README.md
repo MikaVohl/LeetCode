@@ -19,7 +19,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [x] Sum of Two Integers
 - [x] Number of 1 Bits
 - [x] Counting Bits
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Reverse Bits
 ### Dynamic Programming
 - [ ] Climbing Stairs
