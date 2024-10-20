@@ -4,9 +4,9 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 14 / 75
+**Progress:** 15 / 75
 
-![](https://geps.dev/progress/17)
+![](https://geps.dev/progress/20)
 
 ### Array
 - [x] Two Sum
@@ -27,7 +27,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [x] Reverse Bits
 ### Dynamic Programming
 - [x] Climbing Stairs
-- [ ] Coin Change
+- [x] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break Problem
