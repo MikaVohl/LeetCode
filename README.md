@@ -4,7 +4,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 10 / 75
+**Progress:** 11 / 75
 
 ### Array
 - [x] Two Sum
@@ -60,7 +60,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ### Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
-- [ ] Rotate Image
+- [x] Rotate Image
 - [ ] Word Search
 ### String
 - [ ] Longest Substring Without Repeating Characters
