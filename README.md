@@ -6,6 +6,8 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ## Blind 75
 **Progress:** 13 / 75
 
+![](https://geps.dev/progress/17)
+
 ### Array
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
