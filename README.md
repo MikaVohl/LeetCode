@@ -4,13 +4,13 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 11 / 75
+**Progress:** 12 / 75
 
 ### Array
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
