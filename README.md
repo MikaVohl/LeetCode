@@ -4,7 +4,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 9 / 75
+**Progress:** 10 / 75
 
 ### Array
 - [x] Two Sum
@@ -22,7 +22,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [x] Number of 1 Bits
 - [x] Counting Bits
 - [x] Missing Number
-- [ ] Reverse Bits
+- [x] Reverse Bits
 ### Dynamic Programming
 - [ ] Climbing Stairs
 - [ ] Coin Change
