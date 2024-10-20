@@ -15,7 +15,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
-- [ ] 3 Sum
+- [ ] 3Sum
 - [ ] Container With Most Water
 ### Binary
 - [x] Sum of Two Integers
