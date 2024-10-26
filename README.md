@@ -4,9 +4,9 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 16 / 75
+**Progress:** 17 / 75
 
-![](https://geps.dev/progress/21)
+![](https://geps.dev/progress/23)
 
 ### Array
 - [x] Two Sum
@@ -77,7 +77,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Encode and Decode Strings (Leetcode Premium)
 ### Tree
 - [x] Maximum Depth of Binary Tree
-- [ ] Same Tree
+- [x] Same Tree
 - [ ] Invert/Flip Binary Tree
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Binary Tree Level Order Traversal
