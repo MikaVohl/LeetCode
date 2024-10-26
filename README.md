@@ -6,7 +6,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ## Blind 75
 **Progress:** 17 / 75
 
-![](https://geps.dev/progress/23)
+![](https://geps.dev/progress/23?dangerColor=ffb300)
 
 ### Array
 - [x] Two Sum
