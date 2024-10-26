@@ -4,9 +4,9 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 19 / 75
+**Progress:** 20 / 75
 
-![](https://geps.dev/progress/25?dangerColor=ffb300)
+![](https://geps.dev/progress/27?dangerColor=ffb300)
 
 ### Array
 - [x] Two Sum
@@ -18,7 +18,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] 3Sum
-- [ ] Container With Most Water
+- [x] Container With Most Water
 ### Binary
 - [x] Sum of Two Integers
 - [x] Number of 1 Bits
