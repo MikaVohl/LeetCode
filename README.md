@@ -4,9 +4,9 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 18 / 75
+**Progress:** 19 / 75
 
-![](https://geps.dev/progress/24?dangerColor=ffb300)
+![](https://geps.dev/progress/25?dangerColor=ffb300)
 
 ### Array
 - [x] Two Sum
@@ -38,7 +38,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Unique Paths
 - [ ] Jump Game
 ### Graph
-- [ ] Clone Graph
+- [x] Clone Graph
 - [ ] Course Schedule
 - [ ] Pacific Atlantic Water Flow
 - [ ] Number of Islands
