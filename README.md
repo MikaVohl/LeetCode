@@ -4,9 +4,9 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MikaVohl?theme=nord&font=Abel&ext=activity)
 <br>
 ## Blind 75
-**Progress:** 20 / 75
+**Progress:** 21 / 75
 
-![](https://geps.dev/progress/27?dangerColor=ffb300)
+![](https://geps.dev/progress/28?dangerColor=ffb300)
 
 ### Array
 - [x] Two Sum
@@ -68,7 +68,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Group Anagrams
 - [x] Valid Parentheses
 - [ ] Valid Palindrome
