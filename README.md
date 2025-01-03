@@ -29,7 +29,7 @@ This repository contains my most recent solutions to leetcode problems. I am cur
 - [x] Climbing Stairs
 - [x] Coin Change
 - [ ] Longest Increasing Subsequence
-- [ ] Longest Common Subsequence
+- [x] Longest Common Subsequence
 - [ ] Word Break Problem
 - [ ] Combination Sum
 - [ ] House Robber
